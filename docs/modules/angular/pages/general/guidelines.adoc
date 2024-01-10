@@ -56,7 +56,7 @@ The following guidelines are applying for components:
 == Code quality
 Committed code must have a certain quality. The following guidelines must be considered:
 
-*	Do not commit commented out code. 
+*	Do not commit commented out code. it push --set-upstream origin feat/angular-docs-generatorit push --set-upstream origin feat/angular-docs-generator
 **	Comments should only be used to: 
 ***	Document the *Why of the code* and *not* the *What*.
 ***	Create documentation for the autocompletion mechanism.
