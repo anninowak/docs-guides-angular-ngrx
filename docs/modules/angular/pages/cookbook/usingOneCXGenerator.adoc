@@ -1,0 +1,43 @@
+= Using the OneCX Generator
+To run the generator, you have to execute the following command:
+[subs=+macros]
+----
+nx run nx-plugin-e2e:e2e
+----
+
+Furthermore, you will have to handle the following issues marked as "ACTION" in the generated files:
+== Actions for search:
+ACTION: ADD TRANSLATION
+
+ACTION: add additional properties here
+
+ACTION: Add the missing searchColumns
+
+ACTION: Please specify here your desired input fields, link to documentation: TODO
+
+ACTION: Adapt the permission correctly to your project needs
+
+ACTION: Please specify the fields and the their content.
+
+ACTION: Please add here more search configs if needed, link to documentation: TODO
+
+ACTION: Please select the column to be displayed
+
+ACTION: Please add here the definition of your criteriaGroup, link to the documentation: TODO
+
+ACTION: Add here the properties from the DTO which you want to map, documentation link: TODO
+
+ACTION: Add here the properties which you want you have displayed in your csv file in the header and map them, documentation link: TODO
+
+ACTION: Please define the members for your <%= featurePropertyName %>SearchCriteriasSchema here
+
+ACTION: Here you can create a mapping of the items and their corresponding translation strings
+== Actions for details:
+
+ACTION: add additional properties here
+
+ACTION: ADD TRANSLATION
+
+ACTION: add header values here
+
+ACTION: add sub-viewmodel interface for each tab in details and add it here

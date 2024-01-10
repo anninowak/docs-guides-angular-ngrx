@@ -2,6 +2,7 @@
 ** xref:general/index.adoc[General]
 *** xref:general/guidelines.adoc[Guidelines]
 ** Cookbook
+** xref:cookbook/usingOneCXGenerator.adoc[NgRx]
 ** xref:ngrx/ngrx.adoc[NgRx]
 ** Libraries
 *** xref:libraries/symlink.adoc[How to create a SymLink]
