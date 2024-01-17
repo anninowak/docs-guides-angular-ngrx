@@ -2,8 +2,13 @@
 ** xref:general/index.adoc[General]
 *** xref:general/guidelines.adoc[Guidelines]
 ** Cookbook
-** xref:cookbook/usingOneCXGenerator.adoc[NgRx]
+** xref:cookbook/createOneCXStories.adoc[How to create OneCX Stories as a Business Analyst]
 ** xref:ngrx/ngrx.adoc[NgRx]
 ** Libraries
 *** xref:libraries/symlink.adoc[How to create a SymLink]
 *** xref:libraries/workingWithSharedLibraries.adoc[]
+** Getting Started
+*** xref:getting_started/createNewOneCXApp.adoc[Create New OneCX App]
+*** xref:getting_started/addFeatureModule.adoc[Add Feature Module]
+*** xref:getting_started/addSearchPage.adoc[Add Search Page]
+*** xref:getting_started/addDetailsPage.adoc[Add Details Page]

@@ -1,0 +1,7 @@
+= Create OneCX Stories
+
+// TODO: OneCX from the perspective of a business analyst
+
+// List of questions which need to be clarified
+
+

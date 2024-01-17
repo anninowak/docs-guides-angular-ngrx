@@ -1,12 +1,3 @@
-= Using the OneCX Generator
-To run the generator, you have to execute the following command:
-[subs=+macros]
-----
-nx run nx-plugin-e2e:e2e
-----
-
-Furthermore, you will have to handle the following issues marked as "ACTION" in the generated files:
-
 == Actions for search:
 
 === ACTION: Add translation
@@ -181,44 +172,6 @@ IN PROGRESS
 *HINT*: Please remove the "ACTION" comment after solving this issue
 
 === ACTION: Here you can create a mapping of the items and their corresponding translation strings
-
-IN PROGRESS
-
-*HINT*: Please remove the "ACTION" comment after solving this issue
-
-== Actions for details:
-
-=== ACTION: add additional properties here
-
-Where this snippet can be found: <feature>-bff.yaml. :
-
-----
-components:
-  schemas:
-    <Feature>Details:
-      type: object
-      properties:
-        id:
-          type: integer
-          format: int64
-        # ACTION: add additional properties here
-----
-
-*HINT*: Please remove the "ACTION" comment after solving this issue
-
-=== ACTION: ADD TRANSLATION
-
-IN PROGRESS
-
-*HINT*: Please remove the "ACTION" comment after solving this issue
-
-=== ACTION: add header values here
-
-IN PROGRESS
-
-*HINT*: Please remove the "ACTION" comment after solving this issue
-
-=== ACTION: add sub-viewmodel interface for each tab in details and add it here
 
 IN PROGRESS
 
