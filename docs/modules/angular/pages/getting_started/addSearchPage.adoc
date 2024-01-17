@@ -1,16 +1,22 @@
 == Actions for search
+To automatically create a new search page, please run the following command:
+
+[subs=+macros]
+----
+ nx generate @onecx/nx-plugin:search
+----
 
 Here you can find the links to the Actions regarding the OneCX search page.
 //TODO: These actions will be renamed in the future that the name of the action will be displayed correctly.
 [start=1]
-. xref:getting_started/search/action1.adoc[Action 1]
-. xref:getting_started/search/action2.adoc[Action 2]
-. xref:getting_started/search/action3.adoc[Action 3]
-. xref:getting_started/search/action4.adoc[Action 4]
-. xref:getting_started/search/action5.adoc[Action 5]
-. xref:getting_started/search/action6.adoc[Action 6]
-. xref:getting_started/search/action7.adoc[Action 7]
-. xref:getting_started/search/action8.adoc[Action 8]
-. xref:getting_started/search/action9.adoc[Action 9]
-. xref:getting_started/search/action10.adoc[Action 10]
-. xref:getting_started/search/action11.adoc[Action 11]
+. xref:search/action1.adoc[Action 1]
+. xref:search/action2.adoc[Action 2]
+. xref:search/action3.adoc[Action 3]
+. xref:search/action4.adoc[Action 4]
+. xref:search/action5.adoc[Action 5]
+. xref:search/action6.adoc[Action 6]
+. xref:search/action7.adoc[Action 7]
+. xref:search/action8.adoc[Action 8]
+. xref:search/action9.adoc[Action 9]
+. xref:search/action10.adoc[Action 10]
+. xref:search/action11.adoc[Action 11]

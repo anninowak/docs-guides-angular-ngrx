@@ -1,23 +1,18 @@
-= Using the OneCX Generator
+= Create a new OneCX App
+If you want to create a new OneCX application, you can choose to do it by your own or to use the generator.
+
+== Using the OneCX Generator
 To run the generator, you have to run the following commands
 
-npx @onecx/create-workspace ngrx || angular
-We are recommending ngrx.
-
-For your project, there might exist specific generators where @onecx has to be replaced by your project-specific prefix. Please clarify this with your architect.
-
-No manual steps are needed.
-
-As a next step, you can add a feature module ( link: feature module).
-in the article: nx generate @onecx/nx-plugin:feature [nameOfTheFeature]
 [subs=+macros]
 ----
-nx run nx-plugin-e2e:e2e
+npx @onecx/create-workspace ngrx || angular
 ----
-
+We are recommending ngrx.
+For your project, there might exist specific generators where @onecx has to be replaced by your project-specific prefix. Please clarify this with your architect.
 
 [start=1]
 
-. To create a new feature, use the following guide: xref:getting_started/getting_started/addFeatureModule.adoc[Add a new feature module]
-. To create a new search page, use the following guide: xref:getting_started/getting_started/addSearchPage.adoc[Add a new search page]
-. To create a new details page, use the following guide: xref:getting_started/getting_started/addDetailsPage.adoc[Add a new details page]
+. To create a new feature, use the following guide: xref:addFeatureModule.adoc[Add a new feature module]
+. To create a new search page, use the following guide: xref:addSearchPage.adoc[Add a new search page]
+. To create a new details page, use the following guide: xref:addDetailsPage.adoc[Add a new details page]
