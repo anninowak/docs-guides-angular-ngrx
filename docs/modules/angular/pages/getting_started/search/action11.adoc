@@ -1,0 +1,5 @@
+=== ACTION: Here you can create a mapping of the items and their corresponding translation strings
+
+IN PROGRESS
+
+*HINT*: Please remove the "ACTION" comment after solving this issue

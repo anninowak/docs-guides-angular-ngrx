@@ -1,0 +1,37 @@
+=== ACTION: Adapt the permission correctly to your project needs
+Adapt the name of the permission accordingly to your defined permission in permission.csv file.
+*HINT*: Please remove the "ACTION" comment after solving this issue
+
+=== ACTION: Please specify the fields and the their content. + Please add here more search configs if needed
+*Where this snippet can be found*: <feature>-search.component.html. :
+[subs=+macros]
+----
+   searchConfigsEntries: SearchConfig[] = [
+    {
+      id: '01',
+      name: 'Basic search config',
+      version: 1,
+      readonly: true,
+      isAdvanced: false,
+      values: {
+        name: 'test',
+    // ACTION: Please specify the fields and the their content.
+      },
+    },
+    // ACTION: Please add here more search configs if needed, link to documentation: TODO
+  ];
+        ....
+----
+In the first ACTION, you can specify the fields which should be filled and you can specify the content (e.g. : 'test').
+
+In the second ACTION, you can add more search configs which you can later select in the dropdown.
+In the following a short explanation of the properties of the SearchConfig:
+
+* id: id of the search config
+* name: name of the search config
+* version: current version of the search config (is later important for the migration of search configs)
+* readonly: This property indicates if the search config can be overwritten. (This functionality will be implemnted in the future)
+* isAdvanced: This property indicates if the search config belongs to advanced or basic search fields. If this property is set to true, the search config covers input fields from the advanced search.
+* values: { ...} Here you can provide key-value pairs to specify which fields should be filled with with content.
+
+*HINT*: Please remove the "ACTION" comment after solving this issue

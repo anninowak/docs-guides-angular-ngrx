@@ -1,37 +1,8 @@
 == Actions for details:
+Here you can find the links to the Actions regarding the OneCX details page.
 
-=== ACTION: add additional properties here
-
-Where this snippet can be found: <feature>-bff.yaml. :
-
-----
-components:
-  schemas:
-    <Feature>Details:
-      type: object
-      properties:
-        id:
-          type: integer
-          format: int64
-        # ACTION: add additional properties here
-----
-
-*HINT*: Please remove the "ACTION" comment after solving this issue
-
-=== ACTION: ADD TRANSLATION
-
-IN PROGRESS
-
-*HINT*: Please remove the "ACTION" comment after solving this issue
-
-=== ACTION: add header values here
-
-IN PROGRESS
-
-*HINT*: Please remove the "ACTION" comment after solving this issue
-
-=== ACTION: add sub-viewmodel interface for each tab in details and add it here
-
-IN PROGRESS
-
-*HINT*: Please remove the "ACTION" comment after solving this issue
+[start=1]
+. xref:getting_started/details/action1.adoc[Action 1]
+. xref:getting_started/details/action2.adoc[Action 2]
+. xref:getting_started/details/action3.adoc[Action 3]
+. xref:getting_started/details/action4.adoc[Action 4]

@@ -1,0 +1,2 @@
+== Actions for a new feature module:
+Here you can find the links to the Actions if you want to add a new feature module.

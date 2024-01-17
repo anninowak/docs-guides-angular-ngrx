@@ -1,0 +1,5 @@
+=== ACTION: ADD TRANSLATION
+
+IN PROGRESS
+
+*HINT*: Please remove the "ACTION" comment after solving this issue

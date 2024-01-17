@@ -1,0 +1,25 @@
+=== ACTION: Please specify here your desired input fields
+*Where this snippet can be found*: <feature>-search.component.html. :
+[subs=+macros]
+----
+ <form [formGroup]="criteriaGroup">
+      <div class="grid mt-0 p-fluid">
+        <div class="col-12 md:col-3">
+          <span class="p-float-label">
+            <input
+              id="name-input"
+              pInputText
+              type="text"
+              formControlName="name"
+              class="p-inputtext p-component"
+            />
+            <label for="name-input">{{
+              'EVENT2_SEARCH.NAME' | translate
+            }}</label>
+          </span>
+        </div>
+        ....
+----
+// TODO: Explain the different possible input fields, explain the meaning of the directive: *ocxAdvanced 
+
+*HINT*: Please remove the "ACTION" comment after solving this issue

@@ -1,0 +1,5 @@
+=== ACTION: Please add here the definition of your criteriaGroup:
+
+IN PROGRESS
+
+*HINT*: Please remove the "ACTION" comment after solving this issue

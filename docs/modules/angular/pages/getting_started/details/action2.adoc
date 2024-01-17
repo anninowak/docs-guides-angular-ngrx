@@ -1,0 +1,17 @@
+=== ACTION: add additional properties here
+
+Where this snippet can be found: <feature>-bff.yaml. :
+
+----
+components:
+  schemas:
+    <Feature>Details:
+      type: object
+      properties:
+        id:
+          type: integer
+          format: int64
+        # ACTION: add additional properties here
+----
+
+*HINT*: Please remove the "ACTION" comment after solving this issue

@@ -14,3 +14,10 @@ in the article: nx generate @onecx/nx-plugin:feature [nameOfTheFeature]
 ----
 nx run nx-plugin-e2e:e2e
 ----
+
+
+[start=1]
+
+. To create a new feature, use the following guide: xref:getting_started/getting_started/addFeatureModule.adoc[Add a new feature module]
+. To create a new search page, use the following guide: xref:getting_started/getting_started/addSearchPage.adoc[Add a new search page]
+. To create a new details page, use the following guide: xref:getting_started/getting_started/addDetailsPage.adoc[Add a new details page]

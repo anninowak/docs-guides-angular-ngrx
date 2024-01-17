@@ -1,0 +1,19 @@
+=== ACTION: Add additional properties here
+
+*Where this snippet can be found*: <feature>-bff.yaml. :
+
+----
+<Feature>Request:
+      type: object
+      properties:
+        limit:
+          type: integer
+          maximum: 2500
+        id:
+          type: integer
+          format: int64
+        # ACTION: add additional properties here
+----
+Here you can add additional properties which you need for your <FeatureRequest>, e.g. status, creationDate ...
+
+*HINT*: Please remove the "ACTION" comment after solving this issue

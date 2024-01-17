@@ -1,0 +1,5 @@
+=== ACTION: Add here the properties from the DTO which you want to map:
+
+IN PROGRESS
+
+*HINT*: Please remove the "ACTION" comment after solving this issue

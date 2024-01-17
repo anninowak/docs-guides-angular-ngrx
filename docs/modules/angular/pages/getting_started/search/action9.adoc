@@ -1,0 +1,5 @@
+=== ACTION: Add here the properties which you want you have displayed in your csv file in the header and map them
+
+IN PROGRESS
+
+*HINT*: Please remove the "ACTION" comment after solving this issue

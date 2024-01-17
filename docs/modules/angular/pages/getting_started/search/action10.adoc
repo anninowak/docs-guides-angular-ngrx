@@ -1,0 +1,5 @@
+=== ACTION: Please define the members for your <%= featurePropertyName %>SearchCriteriasSchema here
+
+IN PROGRESS
+
+*HINT*: Please remove the "ACTION" comment after solving this issue
