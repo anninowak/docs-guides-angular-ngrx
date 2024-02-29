@@ -1,0 +1,3 @@
+How to add permissions
+
+// TODO: Describe how to setup the permissions

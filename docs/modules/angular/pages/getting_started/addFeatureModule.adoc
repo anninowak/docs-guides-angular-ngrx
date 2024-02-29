@@ -6,4 +6,6 @@ To automatically create a new feature, please run the following command:
  nx generate @onecx/nx-plugin:feature
 ----
 Here you can find the links to the Actions if you want to add a new feature module.
-// TODO: add actions for the feature module
+
+[start=1]
+. xref:feature/action1.adoc[Action 1]
